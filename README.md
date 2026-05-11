@@ -6,7 +6,7 @@
 ╔────────────────────────────────────────────────╗
 
 ## 🚩 Tecnologías que estoy aprendiendo:
-- Python
+- C++
 - Git y GitHub
 
 ## ➕ Objetivos
