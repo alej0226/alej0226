@@ -1,8 +1,5 @@
 # 👋 Hola, soy Diego
 
-🎓 Estudiante de Informática en la UCA
-
-
 ╔────────────────────────────────────────────────╗
 
 ## 🚩 Tecnologías que estoy aprendiendo:
@@ -12,9 +9,6 @@
 ## ➕ Objetivos
 - Mejorar mis habilidades en programación
 - Desarrollar proyectos personales
-
-## 📫 Contacto
-- Email: aleh000024@gmail.com
 
 ╚────────────────────────────────────────────────╝
 
